@@ -100,3 +100,30 @@ h1{
 #vaciar:hover {
     background-color: #c4693c;
 }
+
+#finalizarCompra{
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #C18769;
+    color: #EAE9DB;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#finalizarCompra:hover{
+    background-color: #c4693c;
+}
+#listaCarrito button.eliminar {
+    margin-left: 10px;
+    background-color: #C18769;
+    color: white;
+    border: none;
+    padding: 2px 6px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#listaCarrito button.eliminar:hover {
+    background-color: #cc0000;
+}
